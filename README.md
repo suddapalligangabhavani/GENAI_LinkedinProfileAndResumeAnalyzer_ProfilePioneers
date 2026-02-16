@@ -50,7 +50,7 @@ You can get this project running on your local machine in just a few steps.
     
     Open your terminal and clone the project code to your computer:
     ```bash
-    git clone [https://github.com/ArifaTabasum10/AI-Profile-Analyzer.git](https://github.com/ArifaTabasum10/AI-Profile-Analyzer.git)
+    git clone [https://github.com/suddapalligangabhavani/AI-Profile-Analyzer.git](https://github.com/suddapalligangabhavani/AI-Profile-Analyzer.git)
     cd AI-Profile-Analyzer
     ```
 
